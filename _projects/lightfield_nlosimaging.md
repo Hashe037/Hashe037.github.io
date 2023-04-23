@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Light Field NLOS Imaging
+description: using the angular and spatial information of scattered light to look around corners
 img: assets/img/12.jpg
 importance: 1
 category: work
