@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://cse.umn.edu/ece'>University of Minnesota ECE Department</a>
 
 profile:
   align: right
