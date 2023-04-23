@@ -5,5 +5,3 @@ inline: true
 related_posts: false
 ---
 Finished my summer internship with <a href="https://www.blackriversystems.com/">Black River Systems Inc.</a> as a systems engineer intern. I worked on collecting and performing unsupervised clustering of a variety of radio signals found in the field.
-
-[//]: # I developed "band-agnostic" features which can categorize a wide-range of different modulation protocol, and performed unsupervised clustering to find signals of interest.
