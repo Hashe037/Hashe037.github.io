@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Was a winner in the the Naval Horizons Challenge!
+Was a winner in the the Naval Horizons Challenge.
