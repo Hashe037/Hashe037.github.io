@@ -4,7 +4,7 @@ title: LWIR NLOS Imaging
 description: nlos imaging in the lwir regime
 img: assets/img/projects/lwir_overview.png
 importance: 2
-category: work
+category: current research
 ---
 
 <div class="row">
