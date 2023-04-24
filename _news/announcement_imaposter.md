@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster presentation of "Exploiting Light Field Spectra for Passive NLoS Imaging" at the IMA Workshop for Computational Imaging. <a href="C:\Users\hashe037\Documents\GitHub\Hashe037.github.io\assets\pdf\imaposter.pdf"> Link to poster. </a>
+Poster presentation of "Exploiting Light Field Spectra for Passive NLoS Imaging" at the IMA Workshop for Computational Imaging. <a href="\assets\pdf\imaposter.pdf"> Link to poster. </a>
