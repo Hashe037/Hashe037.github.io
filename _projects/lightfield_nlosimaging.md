@@ -7,18 +7,13 @@ importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Passive non-line-of-sight (NLOS) imaging "looks" around corners at hidden scenes using just scattered light from rough surfaces. Since many scattering surfaces are highly diffusive and spread light out across all angles, passive NLOS imaging as an extremely difficult task. However, if it can be accomplished, it could greatly benefit many areas, such as search-and-rescue and autonomous vehicles.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Most previous attempts focused on using singular photographs which captures a 2D distribution of the scattered light. By combining multiple 2D photographs at different vantage angles, we can actually reconstruct a 4D distribution of the scattered light rays (2 angular and 2 spatial dimensions). This is called the light field, and our project focused on how can we use the extra information in the light field to improve imaging reconstructions.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In our work we have found two ma
+
+ This project analyzes how using multiple photographs of the scattered light at different angles could
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -78,3 +73,12 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+
+
+
+<!-- _projects/lightfield_nlosimaging.md -->
+<div class="publications">
+
+{% bibliography --file lightfield_nlos %}
+
+</div>
