@@ -10,5 +10,5 @@ nav_order: 1
 
 <!-- _pages/publications.md -->
 <body>
-<script src="https://bibbase.org/show?bib=https://bibbase.org/u/Connor-Hashemi&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/pg84R59PxMEcjTrFr/papers.bib"></script> 
 </body>
