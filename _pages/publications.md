@@ -9,6 +9,6 @@ nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
-<div>
+<body>
 <script src="https://bibbase.org/show?bib=https://bibbase.org/u/Connor-Hashemi&jsonp=1"></script> 
-</div>
+</body>
