@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://cse.umn.edu/ece'>University of Minnesota ECE Department</a>
+subtitle: Home Page
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in electrical engineering at the University of Minnesota under Dr. James Leger.
+I am a PhD student in electrical engineering at the <a href='https://cse.umn.edu/ece'>University of Minnesota ECE Department</a> under Dr. James Leger.
 
 My primary research is in the domain of computational imaging, which is the intersection between optics, signal processing, and computer vision. My thesis is focused on creating noiseless and clutterless reconstructions in passive non-line-of-sight (NLOS) imaging using information beyond what is typically used for conventional imaging. I have expertise in inverse problems, machine learning, data fusion, and programming.
 
