@@ -6,14 +6,14 @@ title:
 first_name: Connor
 middle_name: 
 last_name: Hashemi
-email: hashe037@umn.edu
+email: connor.hashemi@kitware.com
 description: Personal academic website for Connor Hashemi. > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   
-keywords: connor hashemi, personal website, computational imaging, passive non-line-of-sight imaging # add your own keywords or leave empty
+keywords: connor hashemi, computational imaging, personal website, computational imaging, passive non-line-of-sight imaging, event-based imaging
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: CH_icon.PNG  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
