@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /assets/pdf/CV.pdf
+Allow: /
 
 Sitemap: https://Hashe037.github.io/sitemap.xml
