@@ -9,5 +9,5 @@ nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
-<script src="https://bibbase.org/u/Connor-H"></script> 
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/oCZLkhXa8vYP4p4ef/papers.bib"></script> 
 
