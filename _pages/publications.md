@@ -9,5 +9,5 @@ nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
-<script src="https://bibbase.org/show?bib=https://bibbase.org/f/oCZLkhXa8vYP4p4ef/papers.bib"></script> 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F4ireCA7SNr8iGYqB7&noBootstrap=1&jsonp=1"></script> 
 
